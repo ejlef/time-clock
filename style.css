@@ -1,0 +1,45 @@
+/*Created By Felje...*/
+
+html{
+  touch-action: none;
+}
+
+body {
+  background-color:#000;
+}
+
+
+.h1_css{
+  color:#fff;
+  text-align: center;
+  font-family: monospace;
+  font-size: 40px;
+}
+.h{
+font-size:75px;
+color:#f00;
+text-shadow:4px 4px 2px #900;
+}
+.m{
+font-size:75px;
+color:#0f0;
+text-shadow:4px 4px 2px #090;
+}
+.s{
+font-size:75px;
+color:#00f;
+text-shadow:4px 4px 2px #009;
+}
+.g-n{
+ font-size:50px;
+ color:#fff;
+ text-shadow:3px 3px 2px #fff;
+}
+.d{
+  color:#0fe;
+  font-size:30px;
+}
+.felje{
+  color:#555;
+  font-family:monospace;
+}
